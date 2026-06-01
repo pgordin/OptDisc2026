@@ -1,0 +1,10 @@
+s a 6
+s b 4
+a b 5
+a c 2
+a d 3
+b c 6
+c a 2
+c d 3
+c t 4
+d t 6
